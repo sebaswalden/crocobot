@@ -1,7 +1,7 @@
 const Telegraf = require('telegraf')
-const config = require('./config.json')
 const Extra = require('telegraf/extra')
 const Markup = require('telegraf/markup')
+const config = require('./config.json')
 
 const gameShortName = 'your-game'
 const gameUrl = 'https://your-game.tld'
